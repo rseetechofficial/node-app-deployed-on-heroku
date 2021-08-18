@@ -9,7 +9,7 @@ app.use('/abc', movies);
 
 
 app.get('/', (req,res) => {
-    res.send('Welcome to Daily Code again');
+    res.send('Welcome to Daily Code again testing auto deployment by git!');
 })
 
 
